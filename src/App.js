@@ -6,7 +6,6 @@ function App() {
   );
 }
 
-
 import { 
   db,
   googleAuthprovider,
